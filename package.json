@@ -1,0 +1,23 @@
+{
+  "name": "hahaton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-park-mail-ru/sample.git"
+  },
+  "engines": {
+    "node": "6.3.1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fest": "^0.12.1",
+    "json-schema-mock": "0.0.8"
+
+  }
+
+}
